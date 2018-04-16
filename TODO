@@ -1,17 +1,49 @@
 
 “process flows” and “workflow diagrams” mean the same thing, 
 
+workflow components
+
 formal terms:
-  - user acceptance testing
+  - user acceptance testing (of the technical solutions)
 
 
 Drive exchange with SMEs and coordinate project delivery to ensure that the needs of business stakeholders are met
 
-understand complex IT landscapes
+streamlining
+
+Understand complex IT landscapes
+
 
 Stresse Testing Programm
 
 https://www.imf.org/external/np/seminars/eng/2006/stress/pdf/jh.pdf
+
+subject matter expertise
+process matter expertise
+
+Target operating model
+
+uses stories,
+
+impact analysis
+
+
+requirements specifications,
+
+functional specifications,
+
+business presentations,
+
+report mock-ups,
+
+dashboard wireframes,
+
+data mapping, testing and
+
+training documentation
+
+
+gapsj44
 
 { Data sourcing
 
@@ -21,7 +53,15 @@ https://www.imf.org/external/np/seminars/eng/2006/stress/pdf/jh.pdf
     Data sourcing is often overlooked. It is often not considered seriously. Many PMs (especially those who are not from DW background) think like “Ah it’s about getting data from finance department, easy…”
 
 }
+{ Certifications
 
+  ITIL
+  IREB: Business Requirements Engineering
+  PMI
+  SCRUM
+  Six Sigma
+
+}
 BABOK {
 
   Business Analysis Body of Knowledge
@@ -34,6 +74,54 @@ BABOK {
   Providing up-to-date status report throughout the release cycle
 
   Managing stakeholder expectations.
+
+  Within XYZ, made up of x people:
+    working with representatives of the PD and IT Functions to strategically manage and improve data, information and systems, supporting the needs of everyone in PD.
+
+  Objectives:
+    - perform analytical and conceptual activities on selected initiatives
+    - develop business cases and process guidelines in alignment with business and stakeholders.
+
+  Tasks:
+    - Define requirements and represent them in the delivery of their reporting infrastructure utilizing existing and future components of the IT architecture including risk data sourcing, aggregation, consolidation, reporting, visualization and workflow components
+    - Collect and prioritize requirements in order to establish a product roadmap
+    - Translating subject matter expertise so it can be understood by technical and non-technical colleagues
+    - address pain points issues
+    - Development of
+      . uses stories,
+      . requirements specifications,
+      . functional specifications,
+      . business presentations,
+      . report mock-ups,
+      . dashboard wireframes,
+      . data mapping, testing and
+      . training documentation
+    - Ensure that the business requirements are defined in line with the target operating model and address existing "pain points" issues and gaps against applicable regulatory requirements, and in compliance with internal policies and procedures
+    - Ensure a neutral view of the current and target set up
+    - Drive change within the content creation team together with the senior management
+
+    - Syndication of documentation to all the relevant stakeholders and achieving necessary approvals
+
+    - Consolidation and Preparation of Reporting, Forecasting, Analysis and other areas within the team`s responsibility area and provides accurate, timely, meaningful and complex financial analysis to influence business decisions.
+
+    - Impact analysis of changes to systems and process, as well as changes to scope
+
+    - Deliver a new risk reporting platform to Credit Risk managers and Risk Analytics and Reporting professionals supporting Credit Risk managers
+    - Taking over Business Lead position for selected initiatives
+    - Identifying opportunities to improve business systems management practices in alignment with stakeholders in Business and IT
+
+    - Liaising with the PD Business Functions and Informatics and lead the development phase of initiatives, i.e. Business Case, Analysis, Guidelines and Recommendations
+    - Effective liaison with IT professionals working as part of the joint Change/IT delivery teams
+    - Closely liaise with key stakeholders in Advisory Solutions, Front units, IT and CRO
+
+    - Supports Manager with highly complex research and analysis 
+    - Prepares ad-hoc analyses and presentations as needed 
+
+    - Participates in implementing continuous improvement, simplification, streamlining and standardization 
+
+    - Adhere to project delivery methodologies agreed for specific programs e.g. waterfall and agile
+
+    - training of end users
 
 
 }
