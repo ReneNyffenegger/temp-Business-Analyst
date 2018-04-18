@@ -1,7 +1,49 @@
 
+
+
+Business Analysis vs requirement engineering
+  Requirement engineering:
+    - systems and software engineering process
+    - Targes products, not processes
+      Covers:
+        - discovering, documenting and maintaining a set of requirements for a computer-based system
+        - functional and non-functional requirements
+      Does not cover
+        - business, stakeholder and transition requirements
+    Focus:
+      - building products
+      - developing engineering specifications for a product / NOT delivering business value
+    Does NOT focus:
+      - business process improvements,
+      - building a business case
+      - delivering business benefits
+
+    Activities:
+      - Requirements development.
+      - Requirements management.
+
+    With Agile, some observers question if requirement engineering is still relevant and needed.
+
+    ----
+
+    Business Analysis is broader
+      - deliver solutions to improve business outcomes
+      - addresses people and processes
+
+    Solutions:
+      - are business driven
+      - are aligned with business needs
+
+
+
+
+functional vs non-functional specifications
+
 “process flows” and “workflow diagrams” mean the same thing, 
 
 workflow components
+
+*** Financial instruments
 
 formal terms:
   - user acceptance testing (of the technical solutions)
@@ -10,6 +52,8 @@ formal terms:
 Drive exchange with SMEs and coordinate project delivery to ensure that the needs of business stakeholders are met
 
 streamlining
+
+Business rule definition and validation.
 
 Understand complex IT landscapes
 
@@ -34,7 +78,6 @@ impact analysis
 
 requirements specifications,
 
-functional specifications,
 
 business presentations,
 
@@ -98,7 +141,7 @@ BABOK {
 
   Tasks:
     - Define requirements and represent them in the delivery of their reporting infrastructure utilizing existing and future components of the IT architecture including risk data sourcing, aggregation, consolidation, reporting, visualization and workflow components
-    - Collect and prioritize requirements in order to establish a product roadmap
+✓   - Collect and prioritize requirements in order to establish a product roadmap  
     - Translating subject matter expertise so it can be understood by technical and non-technical colleagues
     - address pain points issues
     - Development of
@@ -109,7 +152,7 @@ BABOK {
       . report mock-ups,
       . dashboard wireframes,
       . data mapping, testing and
-      . training documentation
+✓     . training documentation
     - Ensure that the business requirements are defined in line with the target operating model and address existing "pain points" issues and gaps against applicable regulatory requirements, and in compliance with internal policies and procedures
     - Ensure a neutral view of the current and target set up
     - Drive change within the content creation team together with the senior management
@@ -178,3 +221,6 @@ Make business objectives SMART:
   Achievable
   Relevant (product needs to be in alignment with company's vision statement)
   Time bound (possible to complete in specific timeframe)
+
+
+→ development/Data/modelling/index
