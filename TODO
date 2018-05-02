@@ -1,5 +1,38 @@
 
 
+{ May 2018 / ZIC ?
+
+  Data analytics ( → development/Data/analysis/index )
+
+  Business Intelligence {
+
+    - Oracle BI
+
+  }
+
+  Business intelligence topics -> improve or renew existing data models
+
+  Ability to read code
+
+  Understand existing system behavior
+
+  Make queries
+
+  Scala: Development language ( → development/languages/Scala/index )
+
+  Spark: Analytics engine  ( → development/Apache/Spark/index )
+
+  working with the business and developers and holding a coordination function
+
+  large and medium scale software projects
+
+  diversified multi-location team
+
+  Guide the business and development teams
+
+}
+
+
 
 Business Analysis vs requirement engineering
   Requirement engineering:
@@ -60,9 +93,12 @@ formal terms:
   - ETL tools
 
 }
-{ BI
+{ Business Intelligence
 
   Oracle BI
+
+}
+{  Quant developer
 
 }
 
