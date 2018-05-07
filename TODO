@@ -2,17 +2,29 @@
 
 { May 2018 / ZIC ?
 
-  Data analytics ( → development/Data/analysis/index )
+  5341 Data analytics ( → development/Data/analysis/index )
 
-  Business Intelligence {
+  → development/Data/analysis/index
 
-    - Oracle BI
 
-  }
+
+  Focus:
+    - Data Analytics
+    - Business Intelligence
+
+  - Roll out new data model
+
+  - core platform
+
+  Data Analyst help business making decisions by
+    - Identify trends
+    - Produce charts
+    - Create visual presentations
+
 
   Business intelligence topics -> improve or renew existing data models
 
-  Ability to read code
+
 
   Understand existing system behavior
 
@@ -28,10 +40,48 @@
 
   diversified multi-location team
 
+  Ability to read code
+
+  Business Intelligence {
+
+    - Oracle BI
+
+  }
+
   Guide the business and development teams
+
+  5358 IT Business Analyst - Versicherung - Einzellleben {
+
+    Einzelleben !!!
+
+    - historisch gewachsene, komplexe Host basierte Versicherungslösung
+    - Business Analyst
+    - Requirement Engineer
+    - Schnittstellen Managment
+    - Integration Umsysteme
+    - Anforderungsspez
+      - Businesslogik
+      - Business rules
+      - Workflow
+      - Fachobjekt spez
+
+  } 
 
 }
 
+{ Market Data
+
+  - Bloomberg
+  - SIX-FI
+  - Reuters
+
+
+}
+{ Data Hubs
+
+  NeoXam
+
+}
 
 
 Business Analysis vs requirement engineering
@@ -278,3 +328,4 @@ Make business objectives SMART:
 
 
 → development/Data/modelling/index
+
