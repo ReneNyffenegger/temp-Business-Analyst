@@ -82,6 +82,61 @@
   NeoXam
 
 }
+{ SDLC tools
+
+  - ISAC
+  - ECMS
+  - BBS
+  - SERA/CDC-I/FCRA
+
+}
+{ Other tools
+
+  - Jira
+  - Confluence
+  - HP ALM
+  - SOAP UI
+  - Sparx EA
+
+}
+{ Data Migration Specialist
+
+
+  - Data mapping
+  - Data extraction
+
+
+  - Define data migration strategies between the systems involved
+  - Analyse and document data migration activities, defining necessary flows and data content
+  - Support clients in their data extraction activities and overview mapping processes
+  - Implement transformation and data loader procedures, as well as related reconciliation tools (Source vs. Target)
+  - Analyse and document data interfaces’ requirements and processes between solution components
+  - Define appropriate solutions in terms of data needs and flows between the applications
+  - Contribute to the evolution of the Data Integration Layer, supporting the definition of the data entity objects
+  - Maintain conceptual interfaces Integrated Model View documentation
+  - Actively manage customer relationship by communicating regularly and providing a pro-active client support
+  - Participate in work groups to explore process improvement and re-engineering opportunities
+  - Assist in the integration tests of the implemented projects to ensure user requirements have been incorporated and client expectations met
+
+
+
+  - Practical experience with ETL tool Oracle Data Integrator (v.11g) is a plus
+  - Working experience and knowledge of Avaloq Banking System is an important advantage
+  - Fluent in English and Italian, while German and French are an advantage
+
+
+}
+
+
+Non functional requirements
+
+User stories
+
+Power Center
+
+Oracle Data Integrator
+
+→ development/Software-design/Project/Business-analysis/Business-analyst/index
 
 
 Business Analysis vs requirement engineering
@@ -146,6 +201,8 @@ formal terms:
 { Business Intelligence
 
   Oracle BI
+
+  
 
 }
 {  Quant developer
