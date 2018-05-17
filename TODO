@@ -1,4 +1,25 @@
 
+Oracle
+  - dataguard  → development/databases/Oracle/Options/active-data-guard/index
+  - https://www.oracle.com/middleware/data-integration/goldengate/index.html
+    Oracle's strategic replication solution
+    replicates data
+    - on trx level
+    - between heterogenous databases
+    - in realtimej
+    shell
+    - GGSCI
+  - cloud control
+  - Oracle data integrator
+
+Best practices to
+  - migrating databases
+    - migration concepts
+      - dev … prod
+  - know how transfer
+  - documentation
+    - operational
+      - goal: secure and stable operation
 
 { May 2018 / ZIC ?
 
